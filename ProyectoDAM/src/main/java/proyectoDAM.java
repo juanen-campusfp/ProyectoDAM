@@ -9,5 +9,5 @@
  * @author juanen
  */
 public class proyectoDAM {
-    
+    System.out.println("Hola Mundo");
 }
