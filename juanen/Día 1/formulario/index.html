@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mi formulario</title>
+
+    </head>
+    <body>
+        <form action="trataformulario.php" method="GET" enctype="multipart/form-data">
+            <label for = "nombre">
+                Nombre
+            <input type = "text" id = "nombre" name = "nombre" minlength="2" maxlength="60" required>
+            </label>
+            <br>
+            <label for = "telefono">
+                telefono
+             <input type = "tel" id = "telefono" name = "telefono"  required>
+             </label>
+             <br>
+            <label for = "correo">
+               eMail
+            <input type = "email" id = "correo" name = "correo" minlength="3" maxlength="100" required>
+            </label>
+            <br>
+        </form>
+    </body>
+</html>

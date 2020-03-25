@@ -1,0 +1,40 @@
+Todos los ejercicios propuestos deben ser resueltos mediante un formulario y un archivo php que trate los datos de este formulario.
+
+1. Teniendo dos input de type number, recogelos via post, sumalos y muestra el resultado.
+
+2. Teniendo dos input de type number, recogelos via post, sumalos y muestra el resultado.
+Mediante el uso de reglas css, decore la respuesta dada.
+
+3. Haz un formulario con radio button para elegir circulo, triangulo o cuadrado y calcular su area en cada caso.
+De momento poner todos los input necesarios para poder hacer los cálculos.
+
+4. Diseñar un formulario web que pida la altura y el diámetro de un cilindro en metros.
+Una vez el usuario introduzca los datos y pulse el botón calcular, deberá calcularse el volumen del cilindro y mostrarse el resultado en el navegador.
+
+5. Crea una página web que contenga un formulario con los siguientes campos de información:
+
+· El nombre, con un control de tipo texto.
+· Los apellidos, con un control de tipo texto.
+· El sexo, con dos opciones excluyentes hombre o mujer.
+· El correo electrónico, con un control de tipo texto.
+· Una casilla de verificación con el texto "Deseo recibir información sobre novedades y ofertas".
+· Una casilla de verificación con el texto "Declaro haber leido y aceptar las condiciones generales del programa y la normativa sobre protección de datos".
+· Un botón de envío.
+
+Además, tienes que tener en cuenta los siguientes requisitos:
+
+· El título de la página debe ser "Formulario de registro"
+· El método de envío del formulario debe ser GET.
+· El destino del envío del formulario debe ser "muestra.php".
+· La longitud máxima de entrada de datos de los controles para el nombre y los apellidos debe ser 50 caracteres.
+· La longitud mínima para nombre y paellidos debe ser de 2 caracteres.
+· Tanto para nombre y apellidos, no debe admitir que estos sean espacios.
+· La casilla de verificación con el texto "Deseo recibir información sobre novedades y ofertas" debe estar activada por defecto.
+
+Una vez que tenga programaado este formulario, programe un módulo PHP en el que se muestren los valores dados por el usuario.
+
+6. Haga los cambios necesarios para que los datos mostrados en  muestra.php  envíe todos los datos del formulario al formulario original.
+Debe además enviar, si procede, el o los mensajes de error para informar al usuario de que ha cometido errores en los datos aportados.
+
+
+

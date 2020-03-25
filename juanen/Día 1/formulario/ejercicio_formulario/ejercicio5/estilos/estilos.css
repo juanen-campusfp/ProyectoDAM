@@ -1,0 +1,3 @@
+#casillas input[type='checkbox']:checked {
+    color: orchid;
+}

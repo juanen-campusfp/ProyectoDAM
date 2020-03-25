@@ -1,0 +1,14 @@
+#cuadrado , #circulo , #triangulo{
+    display: none;
+}
+#figuras input[value='circulo']:checked + #circulo{
+    display:block;
+}
+#figuras input[value='cuadrado']:checked + #cuadrado{
+    display:block;
+}
+#figuras input[value='triangulo']:checked + #triangulo{
+    display:block;
+}
+
+

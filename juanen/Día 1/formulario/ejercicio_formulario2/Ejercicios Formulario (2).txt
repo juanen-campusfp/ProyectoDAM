@@ -1,0 +1,27 @@
+1. Haga un formulario en el que se recoja un número de DNI o NIE.
+   Investigue cómo validar este documento de indentidad y valídelo.
+
+   Recoja en el formulario con un Campo tipo radio si es un DNI o un NIE
+   Y recoja en un segundo campo si dicho dato aportado es correcto o no.
+
+   Use google para averiguar cómo se valida esto... Google tiene todas las
+   respuestas.
+
+2. Solicitar que se ingrese por teclado el nombre de una persona y disponer tres controles de tipo radio
+que nos permitan seleccionar si la persona:
+1) no tiene estudios
+2) estudios primarios
+3) estudios secundarios
+En la pagina que procesa el formulario mostrar el nombre de la persona y un mensaje indicando el tipo
+de estudios que posee.
+
+3. Confeccionar un formulario que solicite la carga del nombre de una persona y que permita seleccionar
+una serie de deportes que practica (futbol, basket, tennis, voley).
+Mostrar en la pagina que procesa el formulario cuales y cuantos deportes que practica.
+
+4. Confeccionar un formulario que solicite el ingreso del nombre de una persona y un combo de selección
+(en este ultimo permitir la selección de los ingresos anuales de la persona: 1-1000, 1001-3000, >3000).
+En la pagina que procesa el formulario mostrar un mensaje si debe pagar impuestos a las ganancias (si
+supera 3000).
+
+Nota: un combo es un selector desplegable

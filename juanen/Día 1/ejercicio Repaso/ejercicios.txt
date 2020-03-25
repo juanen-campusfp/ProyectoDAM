@@ -1,0 +1,126 @@
+1. Leer un número entero y determinar si es un número 
+terminado en 4. 
+Si lo es debe escribir "Fini 4" y si no lo es, debe 
+escribir "UNFini 4"
+
+2. A partir de un número entero, diga cuantos 
+dígitos tiene.
+
+3. Copie el programa 2 y modiquelo para que el número 
+que investiga sea generado aleatoriamente entre valores
+a partir de 1 hasta 1000000 ( un  y un millón)
+
+4. Genere un número aleatorio entre mil y menos mil 
+e indique si dicho número generado es negativo.
+
+5. Copie el ejercicio 4 y modiquelo para que el 
+prorgrama diga si dicho número es negativo, positivo o
+cero.
+
+6. Genere un número aleatorio entre 10 y 9999 y muestre
+la suma de todos sus dígitos.
+
+7. Repita este proceso de sumar los dígitos del 
+número obtenido hasta que obtenga un número de sólo un
+dígito.
+  Ejemplo, número inicial:  3567 
+  La suma da 3 + 5 + 6 +  = 21
+  La suma de los dígitos de 21 es
+  2 + 1 = 3
+  El resultado final es  3.
+  Nota: Debe mostrar por pantalla la descomposición
+  de cada número en sus dígitos y debe dar el resultado
+  de la suma de cada uno de ellos.
+
+/*8. Genere dos números aleatorios entre 1 y 5000 y diga
+si la suma suma de estos dos números enteros 
+genera un número par.*/
+9. Haz un programa que genere 3 números aleatorios y
+que los muestre. Los números aleatorios generados
+deben estar entre 1 y 5
+
+10. Copia el ejercicio 9 y modicalo para que no se 
+repitan números, es decir, los 3 números generados
+deben ser diferentes.
+
+11. Basandose en el Ejercicio 10, ordenelos de menor
+a mayor y muestrelos.
+
+12. Basandose en el Ejercicio 11 diga si con los 
+valores obtenidos podría o no dibujar un triángulo.
+NOTA: no se trata de averiguar de qué tipo de 
+triángulo se trata, solo se pide que se pueda formar
+uno, da igual su tipo.
+
+13. Declara una variable de texto que contenga tu
+nombre (Por ejemplo, Pepe), después muestra un
+mensaje de bienvenida por pantalla que diga ...
+Bienvenido Pepe, es decir, si introduzco “Fernando”,
+me aparezca “Bienvenido Fernando”.
+
+14. Genere un número aleatorio entre 1 y 7. Cada número
+estará aspociado a un día de la semana, es decir,
+1 será Lunes, 2 será Martes, 3 será Miércoles, y así
+hasta 7 que será Domingo.
+
+Con este número aleatorio generado, muestre qué día
+de la semana es y si este día es o no laborable.
+
+En el caso de ser sábado o domingo, que diga que
+es Fin de Semana.
+
+Nota. No son laborables, sábado y domingo.
+
+15. haga un programa que reciba una cifra con dos
+decimales. Dicha cifra debe estar comprendida entre
+0 y 10000 (diez mil)
+
+16. Copie el programa anterior y analice dicho número
+para que muestre el desglose de dicha cifra como si se
+tratra de dinero. Este desglose debe decir cuántas
+monedas de 1 céntimo, cuántas de 2, cuántas de 5, de
+10, 20, 50 céntimos son necesarias para formar
+la fracción de céntimos. Luego debe decir cuántas
+monedas de 1 y 2 euros se necesitan y cuántos billetes
+de 5, 10, 20, 50, 100 y 200 euros son necesarios
+para que - sumados todos ellos - se obtenga el valor
+que representa dicha cifra.
+
+Ejemplo:
+
+  32,16 €     Esta se descompone de la siguiente manera
+  Céntimos de Euro:
+        1 de  1 céntimo
+        1 de  5 céntimos
+        1 de 10 céntimos
+  Euros
+        1 de  2 €
+        1 de 10 €
+        1 de 20 €
+
+17. Dado un número aleatorio entre 1 y 10000, diga
+si dicho número es una potencia exacta de 2. Es decir,
+que ee número sea el resultado de 2 elevado a n
+para que el número inicial generado sea 2
+multiplicado por si mismo.
+
+18. Genere un número aleatorio entres 111 y 99999.
+una vez generado, debe decir si dicho número es un
+número escalera, meor ver ejemplos:
+
+123    345     876   543    321     6789  4321
+
+19. Calculo el factorial de un número aleatorio
+entre 1 y 10.
+Un factorial es:
+3! = 3 * 2 * 1,
+5! = % * 4 * 3 * 2 * 1
+
+
+
+
+
+
+
+
+

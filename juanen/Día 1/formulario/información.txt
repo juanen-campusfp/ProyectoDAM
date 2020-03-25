@@ -1,0 +1,35 @@
+POST sirve para no alterar  los datos de la bases de datos máximo 255 caracteres.
+GET sirve para todo.
+
+Ejemplo  de formulario
+
+
+
+Reglas ...
+1.  No puede haber campo vacío
+2.Nombre longitud minima: 2
+	 longitud máxima: 60
+3.Télefono, longitud 13
+4.email, Las tradicionales para validar un email
+(EMPRESA)	argo[.]otraCosa@nombreEmpresa.[.dominio]
+PROPIO		argo[.]otraCosa@servidor[.]es/com
+
+Fecha = 
+	
+
+
+
+
+
+Acciones CRUD
+-----------------------------
+-----------------------------
+C create data 	INSERT 
+R read data 	SELECT 
+U updata data	UPDATE
+D delete data 	DELETE
+-----------------------------
+-----------------------------
+
+
+Label ;
